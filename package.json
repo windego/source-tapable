@@ -1,0 +1,12 @@
+{
+  "name": "source-tapable",
+  "version": "1.0.0",
+  "description": "tapable学习",
+  "main": "index.js",
+  "repository": "git@github.com:windego/source-tapable.git",
+  "author": "windego <zhangwj0520@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^2.2.1"
+  }
+}
